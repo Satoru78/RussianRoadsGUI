@@ -1,0 +1,13 @@
+﻿<Application x:Class="RussianRoadsGUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RussianRoadsGUI"
+             StartupUri="Views/Windows/MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="Transparent"></Setter>
+            <Setter Property="BorderBrush" Value="Black"></Setter>
+            <Setter Property="BorderThickness" Value="1"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianRoadsGUI", "RussianRoadsGUI\RussianRoadsGUI.csproj", "{ADE1E083-CF80-4046-85C8-FDB6D63248BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE1E083-CF80-4046-85C8-FDB6D63248BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE1E083-CF80-4046-85C8-FDB6D63248BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE1E083-CF80-4046-85C8-FDB6D63248BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE1E083-CF80-4046-85C8-FDB6D63248BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CAE1AFA-CF06-4B21-AB48-210089EDF62B}
+	EndGlobalSection
+EndGlobal
